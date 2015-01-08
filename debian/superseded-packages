@@ -1,4 +1,5 @@
 ironic-common
+python-nova
 python-cinderclient
 python-glanceclient
 python-ironic

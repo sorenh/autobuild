@@ -1,1 +1,7 @@
 usr
+
+debian/nova.conf       etc/nova
+debian/nova_sudoers    etc/sudoers.d
+etc/nova/api-paste.ini etc/nova
+etc/nova/policy.json   etc/nova
+etc/nova/rootwrap.conf etc/nova
