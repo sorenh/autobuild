@@ -38,3 +38,5 @@ python-testtools
 python-websockify
 python-stevedore
 python-os-testr
+python-keystone
+keystone
